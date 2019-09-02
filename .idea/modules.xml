@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DoYouLoveMe/.idea/DoYouLoveMe.iml" filepath="$PROJECT_DIR$/../DoYouLoveMe/.idea/DoYouLoveMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baitapmang1/.idea/baitapmang1.iml" filepath="$PROJECT_DIR$/../baitapmang1/.idea/baitapmang1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../daonguocmang/.idea/daonguocmang.iml" filepath="$PROJECT_DIR$/../daonguocmang/.idea/daonguocmang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hienthisonguyento/.idea/hienthisonguyento.iml" filepath="$PROJECT_DIR$/../hienthisonguyento/.idea/hienthisonguyento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luyentapvonglap1/.idea/luyentapvonglap1.iml" filepath="$PROJECT_DIR$/../luyentapvonglap1/.idea/luyentapvonglap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/luyentapvonglap2.iml" filepath="$PROJECT_DIR$/.idea/luyentapvonglap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taobancocaro/.idea/taobancocaro.iml" filepath="$PROJECT_DIR$/../taobancocaro/.idea/taobancocaro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thaotacvoimang/.idea/thaotacvoimang.iml" filepath="$PROJECT_DIR$/../thaotacvoimang/.idea/thaotacvoimang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../timgiatrimang/.idea/timgiatrimang.iml" filepath="$PROJECT_DIR$/../timgiatrimang/.idea/timgiatrimang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../timmaxcuamang/.idea/timmaxcuamang.iml" filepath="$PROJECT_DIR$/../timmaxcuamang/.idea/timmaxcuamang.iml" />
+    </modules>
+  </component>
+</project>

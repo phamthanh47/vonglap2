@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Số Tiền Ban Đầu (tr) : <input type="text" id="amount-first">
+Số Tháng Cho Vay: <input type="text" id="month">
+Lãi Xuất theo tháng (%): <input type="text" id="laiXuat">
+
+<p><button type="button" onclick="tinhLai()">Lãi Xuất</button></p>
+<p id="result"></p>
+<script>
+    function tinhLai() {
+        let monneyFirst =parseInt(document.getElementById('amount-first').value);
+        let month =parseInt(document.getElementById('month').value);
+        let laiXuat = parseFloat(document.getElementById('laiXuat').value);
+        let kq = monneyFirst * laiXuat * month/100;
+        document.getElementById("result").innerHTML = 'Tiền lãi theo tháng là : '+kq+ 'tr';
+    }
+</script>
+</body>
+</html>

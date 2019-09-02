@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function inChuNhat(a,b) {
+        let i,j;
+        for (  i=0;i<a;i++){
+            for( j=0;j<b;j++){
+                if(i===0||i===a-1) {
+                    document.write("*");
+                }else {
+                    if(j===0||j===b-1){
+                        document.write("*");
+                    }else if(j>1||j<b-1){
+                        document.write("&nbsp&nbsp");
+                    }}
+            }
+            document.write("<br/>");
+        }
+    }
+    let a=parseInt(prompt("Nhap canh dai cua hinh chu nhat can in ra:="));
+    let b=parseInt(prompt("Nhap canh ngan cua hinh chu nhat can in ra:="));
+    inChuNhat(a,b);
+</script>
+</body>
+</html>

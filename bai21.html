@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a= new Array();
+    let a1=1;
+    let a2 =1;
+    document.write(a1+" ");
+    document.write(a2);
+    let n = parseInt(prompt("nhập số phần tử của dãy fibonaci: "));
+    for(i=3;i<=n;i++){
+        a=a1+a2;
+        a1=a2;
+        a2=a;
+        document.write(" "+a+"  ");
+    }
+</script>
+</body>
+</html>
